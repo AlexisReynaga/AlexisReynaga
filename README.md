@@ -61,7 +61,7 @@
   ### 📫 Connect with me
 
   <p align="center">
-    <a href="https://alexisreynaga.github.io/portafolio/" target="_blank">
+    <a href="https://alexisreynaga.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Alexis_Reynaga-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
     </a>
     <br/>
