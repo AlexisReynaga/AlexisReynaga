@@ -11,7 +11,7 @@
 
   ### 🔭 I'm currently working on
   
-  - 💼 **Club Forma:** Developing software solutions formally.
+  - 🌐 **Ti Plus** Developing software solutions formally.
   - 📱 **Mobile Apps:** Building with **Flutter**.
   - 💻 **Web Systems:** Using **Laravel** & **Angular**.
   - 🍌 **BananasDev:** Growing my own tech studio.
