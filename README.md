@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Alexis Reynaga</h1>
   <h3 align="center">Ingeniero en Sistemas Inteligentes 🚀</h3>
-  <h4 align="center">UASLP | Developer Club Forma | CoFounder @BananasDeveleopment</h4>
+  <h4 align="center">UASLP | Developer in TI Plus | CoFounder @BananasDeveleopment</h4>
   
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=AlexisReynaga&label=Profile%20Views&color=0e75b6&style=flat" alt="AlexisReynaga" /> 
