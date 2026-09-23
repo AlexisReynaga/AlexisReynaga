@@ -1,19 +1,19 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Alexis Reynaga</h1>
   <h3 align="center">Ingeniero en Sistemas Inteligentes 🚀</h3>
-  <h4 align="center">UASLP | Developer in TI Plus | CoFounder @BananasDeveleopment</h4>
-  
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AlexisReynaga&label=Profile%20Views&color=0e75b6&style=flat" alt="AlexisReynaga" /> 
+  <h4 align="center">UASLP | Full-stack Developer @ TI Plus | Co-founder @BananasDevelopment</h4>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlexisReynaga&label=Profile%20Views&color=0e75b6&style=flat" alt="AlexisReynaga" />
   </p>
 
   ---
 
   ### 🔭 I'm currently working on
-  
-  - 🌐 **Ti Plus** Developing software solutions formally.
-  - 📱 **Mobile Apps:** Building with **Flutter**.
-  - 💻 **Web Systems:** Using **Laravel** & **Angular**.
+
+  - 🌐 **TI Plus:** Full-stack web platforms and mobile apps (**.NET** · **React** · **Flutter**).
+  - ⚡ **Real-time & maps:** Live GPS tracking with **SignalR** and **Google Maps**.
+  - 🤖 **AI tooling:** **MCP** servers that connect LLMs to real business data.
   - 🍌 **BananasDev:** Growing my own tech studio.
 
   ---
@@ -21,29 +21,45 @@
   ### 🛠️ Tech Stack
 
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
     <br/><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    <br/><br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="azure devops logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </p>
 
   ---
@@ -51,11 +67,10 @@
 ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=AlexisReynaga&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=AlexisReynaga&theme=dracula&hide_border=true&v=2" height="150" alt="streak graph" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexisReynaga&theme=dracula" height="150" alt="languages graph" />
-    
   </p>
-  
+
   ---
 
   ### 📫 Connect with me
